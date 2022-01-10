@@ -1,0 +1,5 @@
+<launch>
+
+    <include file="/home/lluis/tb2_ws/src/turtlebot2/turtlebot_simulator/turtlebot_gazebo/launch/gmapping_demo.launch" />
+
+</launch>
