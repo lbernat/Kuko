@@ -30,6 +30,7 @@ source devel/setup.bash
 1. Lanzar turtlebot2
 ```
 # En simulación Gazebo
+source $HOME/tb2_ws/devel_isolated/setup.bash
 roslaunch turtlebot_gazebo turtlebot_world.launch
 
 # En turtlebot real
@@ -56,4 +57,4 @@ https://user-images.githubusercontent.com/31955512/149568775-aae16804-b771-4ac4-
 
 * **Lluís Bernat Iborra** 
 * **Tamai Ramírez Gordillo** 
-* **Israel** 
+* **Israel Hernández Ramírez** 
