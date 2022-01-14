@@ -8,6 +8,7 @@ MediaPipe:
 ```
 pip install mediapipe
 ```
+
 ROS Noeitc: seguir las [intrucciones de instalación](http://wiki.ros.org/noetic#Installation).
 
 ### Instalación 
@@ -20,27 +21,31 @@ git clone https://github.com/lbernat/Kuko.git
 cd ..
 
 catkin_make
+
+source devel/setup.bash
 ```
 
 ## Ejecutando las pruebas
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 
-
-_Explica que verifican estas pruebas y por qué_
-
+1. Lanzar turtlebot2
 ```
-Da un ejemplo
+# En simulación Gazebo
+roslaunch turtlebot_gazebo turtlebot_world.launch
+
+# En turtlebot real
+roslaunch turtlebot_bringup minimal.launch
+roslaunch turtlebot_bringup hokuyo_ust10lx.launch
+roslaunch astra_launch astra.launch
 ```
 
-### Y las pruebas de estilo de codificación
-
-_Explica que verifican estas pruebas y por qué_
-
+2. Lanzar el software de Kuko
 ```
-Da un ejemplo
+roslaunch all.launch
 ```
+
+En el siguiente vídeo se muestra la ejecución del software:
+
+[![Alt text](https://img.youtube.com/vi/gE65OlMEMvw/0.jpg)](https://www.youtube.com/watch?v=gE65OlMEMvw)
 
 ## Construido con 
 
