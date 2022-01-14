@@ -9,6 +9,8 @@ MediaPipe:
 pip install mediapipe
 ```
 
+[ROS Noetic](http://wiki.ros.org/noetic)
+
 ### Instalación 
 
 ```
