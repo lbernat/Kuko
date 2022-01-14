@@ -1,3 +1,0 @@
-<launch>
-    <node name="fin_map" pkg="map_server" type="map_saver" args="-f /home/lluis/maps/map" />
-</launch>
