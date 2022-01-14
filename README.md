@@ -1,6 +1,6 @@
 # Kuko - El Robot Oficinista
 
-Kukoes un robot oficinista, encargado de ofrecer asistencia en un entorno laboral para facilitar el trabajo de los empleados. Para ello, este robot dispone de una serie de tareas que pueden ser  útiles en una oficina.
+Kuko es un robot oficinista, encargado de ofrecer asistencia en un entorno laboral para facilitar el trabajo de los empleados. Para ello, este robot dispone de una serie de tareas que pueden ser  útiles en una oficina.
 
 ### Pre-requisitos 
 
