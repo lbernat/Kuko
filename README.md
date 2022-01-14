@@ -12,7 +12,7 @@ pip install mediapipe
 ### Instalación 
 
 ```
-cd /home/{user}/catkin_ws/src
+cd catkin_ws/src
 
 git clone https://github.com/lbernat/Kuko.git
 
