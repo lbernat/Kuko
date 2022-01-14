@@ -45,18 +45,12 @@ roslaunch all.launch
 
 En el siguiente vídeo se muestra la ejecución del software:
 
-[![Alt text](https://img.youtube.com/vi/gE65OlMEMvw/0.jpg)](https://www.youtube.com/watch?v=gE65OlMEMvw)
+https://user-images.githubusercontent.com/31955512/149568775-aae16804-b771-4ac4-88bf-2ddbb0a0a75e.mp4
 
 ## Construido con 
 
 * [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html) - Detección de personas
 * [Azure Theme](https://github.com/rdbende/Azure-ttk-theme) - Apariencia interfaz
-
-
-
-https://user-images.githubusercontent.com/31955512/149568775-aae16804-b771-4ac4-88bf-2ddbb0a0a75e.mp4
-
-
 
 ## Autores 
 
