@@ -1,6 +1,6 @@
 # Kuko - El Robot Oficinista
 
-Kukoes un robot oficinista, encargado de ofrecer asistencia en un entorno laboral para facilitar el trabajode los empleados. Para ello, este robot dispone de una serie de tareas que pueden ser  ́utiles en una oficina.
+Kukoes un robot oficinista, encargado de ofrecer asistencia en un entorno laboral para facilitar el trabajo de los empleados. Para ello, este robot dispone de una serie de tareas que pueden ser  útiles en una oficina.
 
 ### Pre-requisitos 
 
@@ -14,7 +14,9 @@ pip install mediapipe
 ```
 cd /home/{user}/catkin_ws/src
 
-git clone ...
+git clone https://github.com/lbernat/Kuko.git
+
+cd ..
 
 catkin_make
 ```
@@ -41,14 +43,10 @@ Da un ejemplo
 
 ## Construido con 
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html) - Detección de personas
 * [Azur Theme](https://github.com/rdbende/Azure-ttk-theme) - Apariencia interfaz
 
 ## Autores 
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Lluís Bernat Iborra** 
 * **Tamai Ramírez Gordillo** 
