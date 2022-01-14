@@ -1,0 +1,24 @@
+<launch>
+
+    <!-- Menu -->
+    <node name="menu" pkg="practica3" type="menu.py" />
+
+    <!-- Mapeado -->
+    <node name="control" pkg="practica3" type="control.py" />
+    <node name="map" pkg="practica3" type="map.py" />
+    
+    <!-- Configuración -->
+    <node name="config" pkg="practica3" type="config.py" output="screen" />
+    <node name="config_input" pkg="practica3" type="config_input.py" />
+
+    <!-- Cartero -->
+    <node name="navigate" pkg="practica3" type="navigate.py" output="screen" />
+
+    <!-- Seguimiento -->
+    <node name="seguimiento" pkg="practica3" type="seguimiento.py" output="screen" />
+
+    <!-- Basurero -->
+
+    <!-- Alarma-->
+
+</launch>

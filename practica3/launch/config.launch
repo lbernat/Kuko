@@ -1,0 +1,11 @@
+<launch>
+
+    <!-- Stack de navegación -->
+    <include file="/home/lluis/tb2_ws/src/turtlebot2/turtlebot_simulator/turtlebot_gazebo/launch/amcl_demo.launch" >
+        <arg name="map_file" value="/home/lluis/maps/map.yaml" />
+    </include>
+
+    <!-- Entorno RViz para el stack de navegación -->
+    <include file="/home/lluis/tb2_ws/src/turtlebot2/turtlebot_interactions/turtlebot_rviz_launchers/launch/view_navigation.launch" />
+
+</launch>
