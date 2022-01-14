@@ -44,7 +44,7 @@ Da un ejemplo
 ## Construido con 
 
 * [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html) - Detección de personas
-* [Azur Theme](https://github.com/rdbende/Azure-ttk-theme) - Apariencia interfaz
+* [Azure Theme](https://github.com/rdbende/Azure-ttk-theme) - Apariencia interfaz
 
 ## Autores 
 
