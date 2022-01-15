@@ -9,6 +9,11 @@ MediaPipe:
 pip install mediapipe
 ```
 
+TensorFlow:
+```
+pip install tensorflow
+```
+
 ROS Noeitc: seguir las [intrucciones de instalación](http://wiki.ros.org/noetic#Installation).
 
 ### Instalación 
@@ -51,6 +56,7 @@ https://user-images.githubusercontent.com/31955512/149568775-aae16804-b771-4ac4-
 ## Construido con 
 
 * [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html) - Detección de personas
+* [TensorFlow](https://www.tensorflow.org/) - Detección de basura
 * [Azure Theme](https://github.com/rdbende/Azure-ttk-theme) - Apariencia interfaz
 
 ## Autores 
