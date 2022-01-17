@@ -51,7 +51,7 @@ roslaunch all.launch
 
 En el siguiente vídeo se muestra la ejecución del software:
 
-[![Kuko](https://i.imgur.com/9fIH8vhds0w.png)](https://youtu.be/9fIH8vhds0w)
+[![Kuko](https://i.imgur.com/KB_xuRuzP3w.png)](https://youtu.be/KB_xuRuzP3w)
 
 ## Construido con 
 
