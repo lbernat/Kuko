@@ -28,9 +28,9 @@ git clone https://github.com/lbernat/Kuko.git
 
 2. Descargar archivos adicionales:
 
-* Descargar esto y moverlo a /practica3/src/trash/
+* Descargar [yolov3_custom_final.weights](https://drive.google.com/file/d/1S-G_d5e0mK4Uygkmc0p9iuXqg0f4TxuN/view?usp=sharing) y moverlo a /practica3/src/trash/
 
-* Descargar esto y moverlo a /practica3/src/alarm/
+* Descargar [yolov3.weights](https://drive.google.com/file/d/18wQk48nKe232woxtg0yEs1H_MiM4zBWm/view?usp=sharing) y moverlo a /practica3/src/alarm/
 
 
 3. Compilar el paquete
