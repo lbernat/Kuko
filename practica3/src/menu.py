@@ -49,7 +49,7 @@ def basurero(event=None):
 
 def alarma(event=None):
     text.set("alarma")
-    pub.publish(5)
+    pub.publish(6)
 
 # Añadir botones
 boton_reposo = ttk.Button(text="APAGAR", style="Accent.TButton", command=root.destroy)
