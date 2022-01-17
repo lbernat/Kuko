@@ -18,12 +18,24 @@ ROS Noeitc: seguir las [intrucciones de instalación](http://wiki.ros.org/noetic
 
 ### Instalación 
 
+1 Descargar el paquete:
+
 ```
 cd catkin_ws/src
 
 git clone https://github.com/lbernat/Kuko.git
+```
 
-cd ..
+2. Descargar archivos adicionales:
+
+* Descargar esto y moverlo a /practica3/src/trash/
+
+* Descargar esto y moverlo a /practica3/src/alarm/
+
+
+3. Compilar el paquete
+```
+cd catkin_ws
 
 catkin_make
 
